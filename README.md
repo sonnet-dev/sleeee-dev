@@ -3,13 +3,14 @@
 
 ## 🍋 I'm Sihyeon Lee
 <p> 
-
   <br>
-  <a href=""><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
-  <a href=""><img src="https://img.shields.io/badge/devlog-181717?style=for-the-badge&logo=notion&logoColor=white" /></a>
+  <a href=""><img src="https://img.shields.io/badge/Portfolio-E8D9FF?style=for-the-badge&logo=&logoColor=white" /></a>
   <br>
-   <a href="mailto:sihyeon.leeee@gmail.com"><img src="https://img.shields.io/badge/sihyeon.leeee@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
- 
+  <a href="mailto:sihyeon.leeee@gmail.com"><img src="https://img.shields.io/badge/sihyeon.leeee@gmail.com-FAE0D4?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+  <br>
+  <a href=""><img src="https://img.shields.io/badge/TIL-FAECC5?style=for-the-badge&logo=notion&logoColor=black" /></a>
+  <a href=""><img src="https://img.shields.io/badge/devlog-E4F7BA?style=for-the-badge&logo=tistory&logoColor=black" /></a>
+  <br>
   <br>
   <br>
   <br>
@@ -57,18 +58,20 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 </p>
 
-
-
 ## 💡 ALGORITHM STUDY 💡
 <p>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sleeee"/>
 <br>
 
+### 📚 Repo
+  <a href="https://github.com/sleeee-dev/codingtest.git">Baekjoon & Programmers </a><br>
+<br>
+<br><br><br><br>
 </p>
 
 ## 🗂 PROJECT 🗂
 <p>
-  
+ <br><br><br><br>
 </p>
 
 
@@ -81,7 +84,7 @@
 <!--
 
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sleeee"/>
-  <a href="https://github.com/SIHYEONee/coding-test-prac.git">Baekjoon & Programmers </a><br>
+
   <a href="https://github.com/SIHYEONee/python-for-coding-test.git">이코테 </a><br>
 
 

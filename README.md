@@ -3,6 +3,9 @@
 
 ## 🍋 I'm Sihyeon Lee
 <p> 
+  
+  🎶 Backend Developing Learner
+  
   <br>
   <a href=""><img src="https://img.shields.io/badge/Portfolio-E8D9FF?style=for-the-badge&logo=&logoColor=white" /></a>
   <br>

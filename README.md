@@ -14,12 +14,7 @@
   <a href=""><img src="https://img.shields.io/badge/TIL-FAECC5?style=for-the-badge&logo=notion&logoColor=black" /></a>
   <a href=""><img src="https://img.shields.io/badge/devlog-E4F7BA?style=for-the-badge&logo=tistory&logoColor=black" /></a><br>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsleeee-dev%2Fhit-counter&count_bg=%23913DC8&title_bg=%23CCCCCC&icon=&icon_color=%23E7E7E7&title=%F0%9F%8C%B1+hits+&edge_flat=false"/></a><br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
+  <br><br><br><br>
 </p>
 
 ## ✨ SKILLS ✨
@@ -60,16 +55,15 @@
 <p>
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-</p>
+  <br><br><br><br>
+  </p>
 
 ## 💡 ALGORITHM STUDY 💡
 <p>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sleeee"/>
-<br>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sleeee"/><br>
 
 ### 📚 Repo
   <a href="https://github.com/sleeee-dev/codingtest.git">Baekjoon & Programmers </a><br>
-<br>
 <br><br><br><br>
 </p>
 

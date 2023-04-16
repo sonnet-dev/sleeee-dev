@@ -1,22 +1,30 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=sihyeon's%20Github&fontSize=70&animation=twinkling)
-<div align=center>
+## 신입 백엔드 개발자 이시현입니다.
+> .
+> .
 
-## 🍋 I'm Sihyeon Lee
-<p> 
+## 🔍 PROFILE
+
+#### 🏫 Education
+  - [2022.10 ~ 2023.04] **중앙HTA 교육 수료**
+  - [2014.08] **강릉원주대학교 전자공학과 학사 졸업**
   
+#### 📜 Certification
+  - [2020.08] **방송통신기사**
+
+
+#### 👩‍💻 Stats
+
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sleeee"/><br>
+
+## ABOUT ME
+
   🎶 Backend Developing Learner
   
   <br>
-  <a href=""><img src="https://img.shields.io/badge/Portfolio-E8D9FF?style=for-the-badge&logo=&logoColor=white" /></a>
-  <br>
-  <a href="mailto:sihyeon.leeee@gmail.com"><img src="https://img.shields.io/badge/sihyeon.leeee@gmail.com-FAE0D4?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-  <br>
-  <a href="https://oxidized-comfort-305.notion.site/TIL-b95a68813b6c4ba395ac33a7ce09b276"><img src="https://img.shields.io/badge/TIL-FAECC5?style=for-the-badge&logo=notion&logoColor=black" /></a>
-  <a href=""><img src="https://img.shields.io/badge/devlog-E4F7BA?style=for-the-badge&logo=tistory&logoColor=black" /></a><br>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsleeee-dev%2Fhit-counter&count_bg=%23913DC8&title_bg=%23CCCCCC&icon=&icon_color=%23E7E7E7&title=%F0%9F%8C%B1+hits+&edge_flat=false"/></a><br>
-  <br><br><br><br>
-</p>
-
+  <a href=""><img src="https://img.shields.io/badge/Portfolio-E8D9FF?style=for-the-badge&logo=&logoColor=white" /></a><br>
+  <a href="mailto:sihyeon.leeee@gmail.com"><img src="https://img.shields.io/badge/sihyeon.leeee@gmail.com-FAE0D4?style=for-the-badge&logo=gmail&logoColor=black" /></a><br>
+  <br><br>
+  
 ## ✨ SKILLS ✨
 
 ### 🛠 Languages & Frameworks
@@ -58,10 +66,10 @@
   <br><br><br><br>
   </p>
 
-## 💡 ALGORITHM STUDY 💡
+## 💡 STUDY 💡
 <p>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sleeee"/><br>
-
+  <a href="https://oxidized-comfort-305.notion.site/TIL-b95a68813b6c4ba395ac33a7ce09b276"><img src="https://img.shields.io/badge/TIL-FAECC5?style=for-the-badge&logo=notion&logoColor=black" /></a><br>
+  
 ### 📚 Repo
   <a href="https://github.com/sleeee-dev/codingtest.git">Baekjoon & Programmers </a><br>
 <br><br><br><br>
@@ -69,10 +77,22 @@
 
 ## 🗂 PROJECT 🗂
 
+👨🏻‍🤝‍👨🏻 **Team Project**
+<details>
+  <summary><b>온라인 재능 기부 인강 사이트 [Momolearn]</b></summary>
+
+  #### 간단한 사이트 설명~
+  <a href="https://github.com/sleeee-dev/momolearn-pj.git">모모런 Repo</a><br>
   
-</div>
+</details>
   
+  
+##
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsleeee-dev%2Fhit-counter&count_bg=%23913DC8&title_bg=%23CCCCCC&icon=&icon_color=%23E7E7E7&title=%F0%9F%8C%B1+hits+&edge_flat=false"/></a><br>
 <!--
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=sihyeon's%20Github&fontSize=70&animation=twinkling)
 
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sleeee"/>
 
@@ -83,8 +103,21 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white">
 
+<div align=center>
+</div>
 
 
+## 💡 ALGORITHM STUDY 💡
+<p>
+
+
+### 📚 Repo
+  <a href="https://github.com/sleeee-dev/codingtest.git">Baekjoon & Programmers </a><br>
+<br><br><br><br>
+</p>
+
+
+  <a href=""><img src="https://img.shields.io/badge/devlog-E4F7BA?style=for-the-badge&logo=tistory&logoColor=black" /></a><br>
 -->
 
 <!--

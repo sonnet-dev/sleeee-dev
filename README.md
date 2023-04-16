@@ -21,7 +21,7 @@
   🎶 Backend Developing Learner
   
   <br>
-  <a href=""><img src="https://img.shields.io/badge/Portfolio-E8D9FF?style=for-the-badge&logo=&logoColor=white" /></a><br>
+  <a href=""><img src="https://img.shields.io/badge/Portfolio-E8D9FF?style=for-the-badge&logo=notion&logoColor=black" /></a><br>
   <a href="mailto:sihyeon.leeee@gmail.com"><img src="https://img.shields.io/badge/sihyeon.leeee@gmail.com-FAE0D4?style=for-the-badge&logo=gmail&logoColor=black" /></a><br>
   <br><br>
   
@@ -68,10 +68,8 @@
 
 ## 💡 STUDY 💡
 <p>
-  <a href="https://oxidized-comfort-305.notion.site/TIL-b95a68813b6c4ba395ac33a7ce09b276"><img src="https://img.shields.io/badge/TIL-FAECC5?style=for-the-badge&logo=notion&logoColor=black" /></a><br>
-  
-### 📚 Repo
-  <a href="https://github.com/sleeee-dev/codingtest.git">Baekjoon & Programmers </a><br>
+  <a href="https://oxidized-comfort-305.notion.site/TIL-b95a68813b6c4ba395ac33a7ce09b276">📚TIL</a><br>
+  <a href="https://github.com/sleeee-dev/codingtest.git">👩‍💻Codingtest</a><br>
 <br><br><br><br>
 </p>
 
@@ -118,6 +116,8 @@
 
 
   <a href=""><img src="https://img.shields.io/badge/devlog-E4F7BA?style=for-the-badge&logo=tistory&logoColor=black" /></a><br>
+
+  <a href="https://oxidized-comfort-305.notion.site/TIL-b95a68813b6c4ba395ac33a7ce09b276"><img src="https://img.shields.io/badge/TIL-FAECC5?style=for-the-badge&logo=notion&logoColor=black" /></a><br>
 -->
 
 <!--

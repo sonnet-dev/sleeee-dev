@@ -1,6 +1,9 @@
 ## 신입 백엔드 개발자 이시현입니다.
-> .
-> .
+> -
+> -
+> -
+> 
+
 
 ## 🔍 PROFILE
 
@@ -16,44 +19,22 @@
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sleeee"/><br>
 
-## ABOUT ME
-
-  🎶 Backend Developing Learner
   
-  <br>
-  <a href=""><img src="https://img.shields.io/badge/Portfolio-E8D9FF?style=for-the-badge&logo=notion&logoColor=black" /></a><br>
-  <a href="mailto:sihyeon.leeee@gmail.com"><img src="https://img.shields.io/badge/sihyeon.leeee@gmail.com-FAE0D4?style=for-the-badge&logo=gmail&logoColor=black" /></a><br>
-  <br><br>
-  
-## ✨ SKILLS ✨
+## 🛠 SKILLS 🛠
 
-### 🛠 Languages & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/JavaScript-FCC624?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/BootStrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <br>
-  </p>
+<p> 
   
-### ⚙ Tools
+  |||
+  |---|---|
+  |Backend|<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white">|
+  |Frontend|<img src="https://img.shields.io/badge/JavaScript-FCC624?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/BootStrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">|
+  |DevOps|<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">|
+  |Ect|<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+  |Tools|<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ IDE-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white">|
 
-<p>
-  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
-  <img src="https://img.shields.io/badge/IntelliJ IDE-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <br><br>  
 </p>
- 
-
+  
 
 ## 💡 STUDY 💡
 <p>
@@ -74,7 +55,9 @@
 </details>
   
   
-##
+  <br><br><br><br>
+  
+<hr>
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsleeee-dev%2Fhit-counter&count_bg=%23913DC8&title_bg=%23CCCCCC&icon=&icon_color=%23E7E7E7&title=%F0%9F%8C%B1+hits+&edge_flat=false"/></a><br>
 
@@ -103,7 +86,8 @@
 
 미사용
 
-
+ <a href=""><img src="https://img.shields.io/badge/Portfolio-E8D9FF?style=for-the-badge&logo=notion&logoColor=black" /></a><br>
+  <a href="mailto:sihyeon.leeee@gmail.com"><img src="https://img.shields.io/badge/sihyeon.leeee@gmail.com-FAE0D4?style=for-the-badge&logo=gmail&logoColor=black" /></a>
 
 ### 📓 Studying..
 <p>

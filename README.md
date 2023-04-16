@@ -11,7 +11,7 @@
   <br>
   <a href="mailto:sihyeon.leeee@gmail.com"><img src="https://img.shields.io/badge/sihyeon.leeee@gmail.com-FAE0D4?style=for-the-badge&logo=gmail&logoColor=black" /></a>
   <br>
-  <a href=""><img src="https://img.shields.io/badge/TIL-FAECC5?style=for-the-badge&logo=notion&logoColor=black" /></a>
+  <a href="https://www.notion.so/TIL-b95a68813b6c4ba395ac33a7ce09b276?pvs=4"><img src="https://img.shields.io/badge/TIL-FAECC5?style=for-the-badge&logo=notion&logoColor=black" /></a>
   <a href=""><img src="https://img.shields.io/badge/devlog-E4F7BA?style=for-the-badge&logo=tistory&logoColor=black" /></a><br>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsleeee-dev%2Fhit-counter&count_bg=%23913DC8&title_bg=%23CCCCCC&icon=&icon_color=%23E7E7E7&title=%F0%9F%8C%B1+hits+&edge_flat=false"/></a><br>
   <br><br><br><br>

@@ -5,16 +5,6 @@
 > 
 
 
-## 🔍 PROFILE
-
-#### 🏫 Education
-  - [2022.10 ~ 2023.04] **중앙HTA 교육 수료**
-  - [2014.08] **강릉원주대학교 전자공학과 학사 졸업**
-  
-#### 📜 Certification
-  - [2020.08] **방송통신기사**
-
-
 #### 👩‍💻 Stats
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sleeee"/><br>
@@ -85,6 +75,18 @@
 
 
 미사용
+
+
+## 🔍 PROFILE
+
+#### 🏫 Education
+  - [2022.10 ~ 2023.04] **중앙HTA 교육 수료**
+  - [2014.08] **강릉원주대학교 전자공학과 학사 졸업**
+  
+#### 📜 Certification
+  - [2020.08] **방송통신기사**
+
+
 
  <a href=""><img src="https://img.shields.io/badge/Portfolio-E8D9FF?style=for-the-badge&logo=notion&logoColor=black" /></a><br>
   <a href="mailto:sihyeon.leeee@gmail.com"><img src="https://img.shields.io/badge/sihyeon.leeee@gmail.com-FAE0D4?style=for-the-badge&logo=gmail&logoColor=black" /></a>

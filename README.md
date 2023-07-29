@@ -28,6 +28,18 @@
 </p>
   
 
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsleeee-dev%2Fhit-counter&count_bg=%23913DC8&title_bg=%23CCCCCC&icon=&icon_color=%23E7E7E7&title=%F0%9F%8C%B1+hits+&edge_flat=false"/></a><br>
+
+
+
+<!--
+
+
+
+  
+<hr>
+
 ## 💡 STUDY 💡
 <p>
   <a href="https://github.com/sleeee-dev/codingtest.git">👩‍💻Codingtest practice</a><br>
@@ -47,18 +59,6 @@
   
   
   <br><br><br><br>
-  
-<hr>
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsleeee-dev%2Fhit-counter&count_bg=%23913DC8&title_bg=%23CCCCCC&icon=&icon_color=%23E7E7E7&title=%F0%9F%8C%B1+hits+&edge_flat=false"/></a><br>
-
-
-
-<!--
-
-
-
-
 
 
 

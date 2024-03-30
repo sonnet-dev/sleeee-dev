@@ -29,7 +29,7 @@
   
 
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsleeee-dev%2Fhit-counter&count_bg=%23913DC8&title_bg=%23CCCCCC&icon=&icon_color=%23E7E7E7&title=%F0%9F%8C%B1+hits+&edge_flat=false"/></a><br>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsonnet-dev%2Fhit-counter&count_bg=%23913DC8&title_bg=%23CCCCCC&icon=&icon_color=%23E7E7E7&title=%F0%9F%8C%B1+hits+&edge_flat=false"/></a><br>
 
 
 
@@ -42,8 +42,8 @@
 
 ## 💡 STUDY 💡
 <p>
-  <a href="https://github.com/sleeee-dev/codingtest.git">👩‍💻Codingtest practice</a><br>
-  <a href="https://github.com/sleeee-dev/java-std.git">👩‍💻Java study</a><br>
+  <a href="https://github.com/sonnet-dev/codingtest.git">👩‍💻Codingtest practice</a><br>
+  <a href="https://github.com/sonnet-dev/java-std.git">👩‍💻Java study</a><br>
 <br><br>
 </p>
 
@@ -53,7 +53,7 @@
 <details>
   <summary><b>온라인 재능 기부 인강 사이트 [Momolearn]</b></summary>
   💻 코로나19 이후 비대면 교육으로 인해 발생한 교육의 격차를 줄이고, 나아가 교육의 평등을 추구하기 위한 재능 기부 중심 온라인 강의 플랫폼입니다.<br>
-  <a href="https://github.com/sleeee-dev/momolearn-pj.git">💻모모런 Repository</a><br>
+  <a href="https://github.com/sonnet-dev/momolearn-pj.git">💻모모런 Repository</a><br>
   
 </details>
   
